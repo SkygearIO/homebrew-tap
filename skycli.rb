@@ -1,6 +1,6 @@
 require "language/node"
 
-class SkyCli < Formula
+class Skycli < Formula
   desc "Skygear Portal command line tool"
   homepage "https://skygear.io"
   url "https://github.com/SkygearIO/skycli/archive/tap.tar.gz"
