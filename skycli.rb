@@ -6,6 +6,7 @@ class Skycli < Formula
   url "https://github.com/SkygearIO/skycli/archive/tap.tar.gz"
   sha256 "1f1b736620bf3ce421af750843e2d7303b82b38e793ac210fd917c278b79cc32"
   head "https://github.com/SkygearIO/skycli.git"
+  version "0.0.1"
 
   depends_on "node"
 
